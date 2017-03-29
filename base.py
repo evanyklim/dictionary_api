@@ -11,8 +11,7 @@ class Base():
 		self.payload = None
 		self.get_inputs()
 		self.get_keys()
-		print('API is initiated')
-		print('\n')
+		print('\nAPI is initiated')
 
 	def get_keys(self):
 		"""get auth keys from file"""
