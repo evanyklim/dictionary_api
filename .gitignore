@@ -1,4 +1,5 @@
 words.txt
-keys.txt
+config.ini
 /ENV
 /__pycache__
+*.pyc

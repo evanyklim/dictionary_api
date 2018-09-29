@@ -3,3 +3,9 @@
 - obtain auth key from dictionaryapi.com
 - Create ```words.txt``` and add words to it
 - Run ```index.py```
+
+
+# TODO:
+
+- put words into alphabetical order
+- smarter parsing
